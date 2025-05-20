@@ -19,7 +19,7 @@ body {
 #profile-img img {
     align-items: flex-end;
     justify-content: flex-end;
-    width: 575px;   /* Change this value as needed */
+    width: 575px;   
     height: 500px;
     border-radius: 10%;
     display: block;
@@ -27,7 +27,7 @@ body {
 }
 
 #social-media img {
-    width: 35px;   /* Change this value as needed */
+    width: 35px;   
     height: 25px;
     margin: 0 5px;
     transition: transform 0.3s;
